@@ -7,5 +7,5 @@ syntax: string.count(substring, start, end)
    # str.upper()
    we use this string type for converting all lowrercase cahracters to uppercase characters.it only affects lowercase letters other cahracters remain the same. non alphabetic characters also remain the same.
    # str. lower()
-   used for converting all uppercase caharcters to lowercase. this method only affects the uppercase letters.
+   used for converting all uppercase caharcters to lowercase. this method only affects the uppercase letters. the lowercase characters remain the same .
    
